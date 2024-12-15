@@ -5,7 +5,7 @@
     <h2> This is the FINAL version of a webpage after several source repo updates </h2>
     <h3> This version was deployed via ANSIBLE deployment pipeline </h3>
     <h3> This page intended to be served using the KUBERNETES cluster </h3>
-    <h1> If you see this message, CI/CD pipeline has been built successfully. Congratulations! Cool! </h1>
+    <h1> If you see this message, CI/CD pipeline has been built successfully. Congratulations! </h1>
     <br>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
